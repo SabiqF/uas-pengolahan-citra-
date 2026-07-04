@@ -1,7 +1,6 @@
 - Install Python 3.10
 
-- Buka terminal di folder project:
-cd "C:\Users\Sabiq Fauzil\Documents\plant prediction"
+- Buka terminal di folder project
 
 - Buat virtual environment dengan Python 3.10:
 py -3.10 -m venv .venv
